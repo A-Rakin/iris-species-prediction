@@ -6,3 +6,20 @@ Screenshpt of the Web App:
 kaggle dataset link:
 
 https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/
+
+
+# Iris Flower Species Prediction Web App
+
+A simple **Flask web application** that predicts the species of an Iris flower based on user inputs for **sepal length, sepal width, petal length, and petal width** using a pre-trained Random Forest model.
+
+---
+
+## 🌸 Features
+
+- Input flower measurements via a user-friendly web form.
+- Predicts the species: **Setosa, Versicolor, or Virginica**.
+- Displays predictions dynamically on the same page.
+- Built using **Flask**, **NumPy**, and **scikit-learn**.
+- Responsive and modern interface with CSS styling.
+
+---
